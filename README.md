@@ -10,3 +10,6 @@ A data-driven Business Intelligence solution built for AtliQ Grands, a luxury ho
 -  Underperforming hotel locations affecting national RevPAR
 - Seasonal booking trends driving low occupancy in Q2
 - Strategic recommendations for pricing and marketing alignment
+<img width="1336" height="720" alt="Screenshot 2025-07-25 114841" src="https://github.com/user-attachments/assets/92cbfd5d-71e7-4d34-8339-b78aec82b49a" />
+
+<img width="1317" height="747" alt="Screenshot 2025-07-25 114943" src="https://github.com/user-attachments/assets/05a286a0-69ca-45b6-ae3c-ccb879a895f9" />
